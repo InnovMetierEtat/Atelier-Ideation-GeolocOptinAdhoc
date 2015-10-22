@@ -5,7 +5,7 @@
 
 ---
 
-CompteRendu - [InnovMetier] (https://github.com/InnovMetier) - pdf, odp, txt
+CompteRendu - [InnovMetier] (https://github.com/InnovMetier) - [pdf](docs/CompteRendu.pdf), odp, txt
 
 Twitter [#innovmetier] (https://twitter.com/hashtag/innovmetier)
 
