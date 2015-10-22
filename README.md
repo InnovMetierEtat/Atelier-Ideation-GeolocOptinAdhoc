@@ -51,7 +51,7 @@ Innovation Publique, 8 vertus cardinales - [Bastien Guerry] (https://github.com/
 
 ---
 
-Charte de Participation - APIE - [pdf](docs/charteparticipation.pdf), [txt](docs/charteparticipation.md), [odp](docs/charteparticipation.odp)
+Charte de Participation - APIE - [pdf](docs/charteparticipation.pdf), [txt](docs/charteparticipation.md), [odt](docs/charteparticipation.odt)
 
 Tutoriel de Libération du Code - 4|*13 - pdf, txt, odp
 
