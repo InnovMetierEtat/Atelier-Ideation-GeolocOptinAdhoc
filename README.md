@@ -17,7 +17,7 @@ Service de Localisation - [Olivier Favre] (https://github.com/olivierfavre) - [t
 
 Storify - [Nicolas Loubet] (https://github.com/nicolasloubet) - [pdf](docs/Storify.pdf), [site web] (https://storify.com/nicolasloubet/innovmetier-proto204)
 
-Illustration Murale - [Hélène Pouille] (http://sketchnotes.strikingly.com/) - pdf, [png1](docs/Illus1.webapp.jpg), [png2](docs/Illus2.fonctionnalites.jpg), [png3](docs/Illus3.usages.jpg)
+Illustration Murale - [Hélène Pouille] (http://sketchnotes.strikingly.com/) - [pdf](docs/illustrationmurale.pdf), [png.webapp](docs/Illus1.webapp.jpg), [png.foncti](docs/Illus2.fonctionnalites.jpg), [png.usages](docs/Illus3.usages.jpg)
 
 Photos - gzip 
 
