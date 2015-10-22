@@ -11,9 +11,9 @@ Twitter [#innovmetier] (https://twitter.com/hashtag/innovmetier)
 
 ##### mardi 13 octobre 2015
 
-CIMI - [Eric Pommereau] (https://github.com/eric-pommereau) - [pdf](docs/CIMI.pdf), [odp](docs/CIMI.odp), mp3, ogg
+[CIMI](https://twitter.com/communaute_cimi) - [Eric Pommereau] (https://github.com/eric-pommereau) - [pdf](docs/CIMI.pdf), [odp](docs/CIMI.odp), [mp3](docs/cimi.mp3), [ogg](https://github.com/InnovMetierEtat/semaineIP2015documentation/blob/master/docs/CIMI.ogg)
 
-Service de Localisation - [Olivier Favre] (https://github.com/olivierfavre) - txt, mp3, ogg
+Service de Localisation - [Olivier Favre] (https://github.com/olivierfavre) - [txt](docs/loc.MD), [mp3](docs/loc.mp3), [ogg](docs/Loc.ogg)
 
 Storify - [Nicolas Loubet] (https://github.com/nicolasloubet) - [pdf](docs/Storify.pdf), [site web] (https://storify.com/nicolasloubet/innovmetier-proto204)
 
@@ -23,17 +23,17 @@ Photos - gzip
 
 Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 
-- Equipe 1 : fonctionnalité d'itinéraires (de secours) - pdf, odp
-- Equipe 2 : réseau de com' pour les catastrophes - pdf, odp
-- Equipe 3 : améliorer le guidage (géoloc + indications) - pdf, odp
-- Equipe 4 : quel transfert automatique de données ? - pdf, odp
-- Equipe 5 : accompagnement à distance, en soirée - pdf, odp
-- Equipe 6 : système de hotline (tel) pour la 'victime' - pdf, odp
-- Equipe 7 : actualisation en temps réel de la position - pdf, odp
+- Equipe 1 : fonctionnalité d'itinéraires (de secours) - [pdf](docs/1.pdf), [odp](docs/1.odp)
+- Equipe 2 : réseau de com' pour les catastrophes - [pdf](docs/2.pdf), [odp](docs/2.odp)
+- Equipe 3 : améliorer le guidage (géoloc + indications) - [pdf](docs/3.pdf), [odp](docs/3.odp)
+- Equipe 4 : quel transfert automatique de données ? - [pdf](docs/4.pdf), [odp](docs/4.odp)
+- Equipe 5 : accompagnement à distance, en soirée - [pdf](docs/5.pdf)
+- Equipe 6 : système de hotline (tel) pour la 'victime' - [pdf](docs/6.pdf), [odp](docs/6.odp)
+- Equipe 7 : actualisation en temps réel de la position - [pdf](docs/7.pdf), [odp](docs/7.odp)
 
 ##### jeudi 15 octobre 2015
 
-Valisette de l'innovateur - [png](docs/KitdeSurvieDeLInnovateur.png), svg
+Kit de Survie de l'Innovateur Public - [png](docs/KitdeSurvieDeLInnovateur.png), svg, [vidéo sur le web](http://www.acteurspublics.tv/play/38784/jean-christophe-frachet-conseil-general-de-l-essonne?options%5Bcurrent_component_instance%5D=video_list&options%5Bvideo_list%5D%5Bfilter_request%5D%5Bvideo_slug%5D=38784%2Fjean-christophe-frachet-conseil-general-de-l-essonne&options%5Bvideo_list%5D%5Bfilter_request%5D%5Bposition%5D=3&options%5Bvideo_list%5D%5Bfilter_request%5D%5Bpage%5D=1)
 
 Collabor'Action - [jpg](docs/BarCamp-CollaborAction.jpg), svg
 
