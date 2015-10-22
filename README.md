@@ -35,7 +35,7 @@ Fonctionnalités & Usages - Synthèse (pdf, odp, freemind), Groupe1 (pdf, odp), 
 
 Valisette de l'innovateur - png, svg
 
-Atelier KdM - png, svg
+Collabor'Action - png, svg
 
 ##### vendredi 16 octobre 2015
 
