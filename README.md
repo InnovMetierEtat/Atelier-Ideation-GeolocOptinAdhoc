@@ -23,13 +23,13 @@ Photos - gzip
 
 Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 
-- Equipe 1 : fonctionnalité d'itinéraires (de secours) - pdf, odp
-- Equipe 2 : réseau de com' pour les catastrophes - pdf, odp
-- Equipe 3 : améliorer le guidage (géoloc + indications) - pdf, odp
-- Equipe 4 : quel transfert automatique de données ? - pdf, odp
-- Equipe 5 : accompagnement à distance, en soirée - pdf, odp
-- Equipe 6 : système de hotline (tel) pour la 'victime' - pdf, odp
-- Equipe 7 : actualisation en temps réel de la position - pdf, odp
+- Equipe 1 : fonctionnalité d'itinéraires (de secours) - [pdf](docs/1.pdf), [odp](docs/1.odp)
+- Equipe 2 : réseau de com' pour les catastrophes - [pdf](docs/2.pdf), [odp](docs/2.odp)
+- Equipe 3 : améliorer le guidage (géoloc + indications) - [pdf](docs/3.pdf), [odp](docs/3.odp)
+- Equipe 4 : quel transfert automatique de données ? - [pdf](docs/4.pdf), [odp](docs/4.odp)
+- Equipe 5 : accompagnement à distance, en soirée - [pdf](docs/5.pdf)
+- Equipe 6 : système de hotline (tel) pour la 'victime' - [pdf](docs/6.pdf), [odp](docs/6.odp)
+- Equipe 7 : actualisation en temps réel de la position - [pdf](docs/7.pdf), [odp](docs/7.odp)
 
 ##### jeudi 15 octobre 2015
 
