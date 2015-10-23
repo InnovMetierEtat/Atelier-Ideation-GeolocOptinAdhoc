@@ -13,7 +13,7 @@ Twitter [#innovmetier] (https://twitter.com/hashtag/innovmetier)
 
 [CIMI](https://twitter.com/communaute_cimi) - [Eric Pommereau] (https://github.com/eric-pommereau) - [pdf](docs/CIMI.pdf), [odp](docs/CIMI.odp), [mp3](docs/cimi.mp3), [ogg](https://github.com/InnovMetierEtat/semaineIP2015documentation/blob/master/docs/CIMI.ogg)
 
-Service de Localisation - [Olivier Favre] (https://github.com/olivierfavre) - txt, mp3, ogg
+Service de Localisation - [Olivier Favre] (https://github.com/olivierfavre) - [txt](docs/loc.MD), [mp3](docs/loc.mp3), [ogg](docs/Loc.ogg)
 
 Storify - [Nicolas Loubet] (https://github.com/nicolasloubet) - [pdf](docs/Storify.pdf), [site web] (https://storify.com/nicolasloubet/innovmetier-proto204)
 
