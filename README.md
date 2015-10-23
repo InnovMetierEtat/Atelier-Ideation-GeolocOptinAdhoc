@@ -19,7 +19,7 @@ Storify - [Nicolas Loubet] (https://github.com/nicolasloubet) - [pdf](docs/Stori
 
 Illustration Murale - [Hélène Pouille] (http://sketchnotes.strikingly.com/) - [pdf](docs/illustrationmurale.pdf), [png.webapp](docs/Illus1.webapp.jpg), [png.foncti](docs/Illus2.fonctionnalites.jpg), [png.usages](docs/Illus3.usages.jpg)
 
-Photos - gzip 
+Photos - [zip.1](docs/photos.zip), [zip.2](docs/photos2.zip)
 
 Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 
