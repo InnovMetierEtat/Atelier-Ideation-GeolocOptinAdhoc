@@ -11,7 +11,7 @@ Twitter [#innovmetier] (https://twitter.com/hashtag/innovmetier)
 
 ##### mardi 13 octobre 2015
 
-CIMI - [Eric Pommereau] (https://github.com/eric-pommereau) - [pdf](docs/CIMI.pdf), [odp](docs/CIMI.odp), mp3, ogg
+CIMI - [Eric Pommereau] (https://github.com/eric-pommereau) - [pdf](docs/CIMI.pdf), [odp](docs/CIMI.odp), [mp3](docs/cimi.mp3), [ogg](https://github.com/InnovMetierEtat/semaineIP2015documentation/blob/master/docs/CIMI.ogg)
 
 Service de Localisation - [Olivier Favre] (https://github.com/olivierfavre) - txt, mp3, ogg
 
