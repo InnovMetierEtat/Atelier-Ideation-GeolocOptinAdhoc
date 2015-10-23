@@ -1,4 +1,4 @@
-Je suis Olivier,adjudant au peloton de Gendarmerie de Haute-Montagne de l'Isère, l'unité en
+Je suis Olivier, adjudant au peloton de Gendarmerie de Haute-Montagne de l'Isère, l'unité en
 charge du secours en montagne pour le département de l'Isère. Je suis secouriste, maitre de chien
 avalanche et en charge de la R&D nouvelles technologies.
 
