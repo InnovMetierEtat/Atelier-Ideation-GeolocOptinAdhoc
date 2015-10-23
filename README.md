@@ -31,7 +31,7 @@ Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 - Equipe 6 : système de hotline (tel) pour la 'victime' - [pdf](docs/6.pdf), [odp](docs/6.odp)
 - Equipe 7 : actualisation en temps réel de la position - [pdf](docs/7.pdf), [odp](docs/7.odp)
 
-Synthèse DGGN - Xavier Guimard - [mp3](docs/guimard.mp3), [ogg](docs/guimard.ogg)
+Synthèse DGGN - [Xavier Guimard](https://github.com/guimard) - [mp3](docs/guimard.mp3), [ogg](docs/guimard.ogg)
 
 ##### jeudi 15 octobre 2015
 
