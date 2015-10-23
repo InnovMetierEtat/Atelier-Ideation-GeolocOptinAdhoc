@@ -33,7 +33,7 @@ Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 
 ##### jeudi 15 octobre 2015
 
-Valisette de l'innovateur - [png](docs/KitdeSurvieDeLInnovateur.png), svg
+Kit de Survie de l'Innovateur - [png](docs/KitdeSurvieDeLInnovateur.png), svg, [vidéo sur le web](http://www.acteurspublics.tv/play/38784/jean-christophe-frachet-conseil-general-de-l-essonne?options%5Bcurrent_component_instance%5D=video_list&options%5Bvideo_list%5D%5Bfilter_request%5D%5Bvideo_slug%5D=38784%2Fjean-christophe-frachet-conseil-general-de-l-essonne&options%5Bvideo_list%5D%5Bfilter_request%5D%5Bposition%5D=3&options%5Bvideo_list%5D%5Bfilter_request%5D%5Bpage%5D=1)
 
 Collabor'Action - [jpg](docs/BarCamp-CollaborAction.jpg), svg
 
