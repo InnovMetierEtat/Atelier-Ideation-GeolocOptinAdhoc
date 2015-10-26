@@ -9,7 +9,8 @@ CompteRendu - [InnovMetier] (https://github.com/InnovMetier) - [pdf](docs/Compte
 
 Twitter [#innovmetier] (https://twitter.com/hashtag/innovmetier)
 
-GitHub de l'application de Geolocalisation Consentie, AdHoc et Temporaire https://github.com/GendarmerieNationale/GeolocOptinAdhoc
+GitHub de l'application de Geolocalisation Consentie, AdHoc et Temporaire
+https://github.com/GendarmerieNationale/GeolocOptinAdhoc
 
 ##### mardi 13 octobre 2015
 
