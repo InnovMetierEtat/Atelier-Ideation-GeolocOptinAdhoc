@@ -1,5 +1,5 @@
 
-### Semaine de l'Innovation Métier 2015
+### Semaine de l'Innovation 2015
 
 #### Présentations & Rendus en CC-BY-NC-SA (sauf mention spécifique)
 
