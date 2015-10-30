@@ -24,7 +24,7 @@ Illustration Murale - [Hélène Pouille] (http://sketchnotes.strikingly.com/) - 
 
 Photos - [zip.1](docs/photos.zip), [zip.2](docs/photos2.zip)
 
-Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
+Fonctionnalités & Usages - Synthèse ([freemind](docs/syntheseideation.mm), [svg](docs/syntheseideation.svg), [html](docs/syntheseideation.html), [jpg](docs/syntheseideation.jpeg))
 
 - Equipe 1 : fonctionnalité d'itinéraires (de secours) - [pdf](docs/1.pdf), [odp](docs/1.odp)
 - Equipe 2 : réseau de com' pour les catastrophes - [pdf](docs/2.pdf), [odp](docs/2.odp)
